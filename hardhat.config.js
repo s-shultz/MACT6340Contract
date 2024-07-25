@@ -40,7 +40,7 @@ module.exports = {
             url: ALCHEMY_URL,
             accounts: [STUNT_WALLET_PRIVATE_KEY],
             gasPrice: 35000000000,
-            chainId: 80001,
+            chainId: 80002,
         },
         polygon: {
             url: ALCHEMY_URL,
